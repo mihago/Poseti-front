@@ -149,6 +149,7 @@ for(int i=0;i<landmarks.length;i++){
                 initialChildSize: 0.3,
                 minChildSize: 0.3,
 
+
                 maxChildSize: 1,
                 builder: (BuildContext context,
                     ScrollController scrollController) {
