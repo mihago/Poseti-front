@@ -65,6 +65,7 @@ class _MainPageState extends State<MainPage>
   }
 
 
+
   void getCurrentPosition () async {
     Position position =await determinePosition();
     setState(() {
